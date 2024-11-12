@@ -1,5 +1,5 @@
 # CF_VS_TR
-# Cloudflare-workers/pages代理脚本
+## Cloudflare-workers/pages代理脚本
 
 支持workers部署，实现vless+ws+tls、trojan+ws+tls、vless+ws、trojan+ws代理节点
 
@@ -55,7 +55,7 @@
 如果你看了教程，就可手搓无数个优选IP节点，也不需要买域名，也不需要分享链接
 
 客户端不支持切片功能时，workers域名节点建议使用关TLS的节点或者使用自定义域节点
-
+#### 总之只要有自定义域名，你才能完美使用CF的免费节点
 ### 详细说明教程请参考[]()
 
 ---------------------------------
