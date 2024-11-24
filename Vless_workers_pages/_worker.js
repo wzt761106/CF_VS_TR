@@ -1,10 +1,10 @@
 // <!--GAMFC-->version base on commit 43fad05dcdae3b723c53c226f8181fc5bd47223e, time is 2023-06-22 15:20:02 UTC<!--GAMFC-END-->.
 // @ts-ignore
 import { connect } from "cloudflare:sockets";
-
+wangqiuhan
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = "b2083e44-6b29-481e-a930-ebf5ef8a82d8";
+let userID = "ffa130bf-faad-4d23-b3a6-55611ec3160d";
 
 const proxyIPs = ["ts.hpc.tw"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org proxy.xxxxxxxx.tk
 const cn_hostnames = [''];
